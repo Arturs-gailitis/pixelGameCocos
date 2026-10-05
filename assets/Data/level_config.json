@@ -1,0 +1,156 @@
+[
+    {
+      "slot": 1,
+      "name": "First Bloom",
+      "tier": "Medium",
+      "source": "builtin",
+      "grid": [
+        "KKKKKKKKKKKK",
+        "KIKKKKKKKKIK",
+        "KKRRRKKRRRKK",
+        "KRIIRRRRRRRK",
+        "KRIRRRRRRRRK",
+        "KRRRRRRRRRRK",
+        "KKRRRRRRRRKK",
+        "KKKRRRRRRKKK",
+        "KKKKRRRRKKKK",
+        "KKKKKRRKKKKK",
+        "GGGGGGGGGGGG",
+        "GGGGGGGGGGGG"
+      ],
+      "palette": {
+        "K": "#262B44",
+        "I": "#F3F0E6",
+        "R": "#F0439A",
+        "G": "#3FC155"
+      },
+      "containers": [
+        {
+          "c": "G",
+          "cap": 8,
+          "r": 0,
+          "col": 0
+        },
+        {
+          "c": "G",
+          "cap": 8,
+          "r": 1,
+          "col": 0
+        },
+        {
+          "c": "G",
+          "cap": 8,
+          "r": 2,
+          "col": 0
+        },
+        {
+          "c": "K",
+          "cap": 8,
+          "r": 3,
+          "col": 0
+        },
+        {
+          "c": "R",
+          "cap": 8,
+          "r": 4,
+          "col": 0
+        },
+        {
+          "c": "K",
+          "cap": 8,
+          "r": 0,
+          "col": 1
+        },
+        {
+          "c": "K",
+          "cap": 8,
+          "r": 1,
+          "col": 1
+        },
+        {
+          "c": "R",
+          "cap": 8,
+          "r": 2,
+          "col": 1
+        },
+        {
+          "c": "K",
+          "cap": 8,
+          "r": 3,
+          "col": 1
+        },
+        {
+          "c": "R",
+          "cap": 8,
+          "r": 4,
+          "col": 1
+        },
+        {
+          "c": "R",
+          "cap": 8,
+          "r": 0,
+          "col": 2
+        },
+        {
+          "c": "I",
+          "cap": 5,
+          "r": 1,
+          "col": 2
+        },
+        {
+          "c": "R",
+          "cap": 8,
+          "r": 2,
+          "col": 2
+        },
+        {
+          "c": "K",
+          "cap": 8,
+          "r": 3,
+          "col": 2
+        },
+        {
+          "c": "R",
+          "cap": 8,
+          "r": 4,
+          "col": 2
+        },
+        {
+          "c": "R",
+          "cap": 5,
+          "r": 0,
+          "col": 3
+        },
+        {
+          "c": "K",
+          "cap": 8,
+          "r": 1,
+          "col": 3
+        },
+        {
+          "c": "K",
+          "cap": 8,
+          "r": 2,
+          "col": 3
+        },
+        {
+          "c": "K",
+          "cap": 6,
+          "r": 3,
+          "col": 3
+        }
+      ],
+      "links": [],
+      "mystery": null,
+      "thick": null,
+      "frost": null,
+      "blocker": null,
+      "regions": null,
+      "shutters": null,
+      "pressure": null,
+      "split": null,
+      "beltCap": 24,
+      "seed": 11001,
+      "fillRule": "gravity"
+    }
+  ]
